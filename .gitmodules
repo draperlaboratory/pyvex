@@ -1,4 +1,4 @@
 [submodule "vex"]
 	path = vex
-	url = https://github.com/angr/vex.git
-	branch = master
+	url = https://github.com/draperlaboratory/vex.git
+	branch = draper/riscv-fixes
